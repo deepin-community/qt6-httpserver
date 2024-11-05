@@ -1,6 +1,5 @@
 usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/QAbstractHttpServer
 usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/QHttpServer
-usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/QHttpServerAfterRequestViewTraits
 usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/QHttpServerRequest
 usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/QHttpServerResponder
 usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/QHttpServerResponse
@@ -18,7 +17,6 @@ usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/qhttpserverresponse.h
 usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/qhttpserverrouter.h
 usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/qhttpserverrouterrule.h
 usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/qhttpserverrouterviewtraits.h
-usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/qhttpserverviewtraits.h
 usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/qhttpserverviewtraits_impl.h
 usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/qthttpserverexports.h
 usr/include/${DEB_HOST_MULTIARCH}/qt6/QtHttpServer/qthttpserverglobal.h
