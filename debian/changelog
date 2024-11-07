@@ -1,3 +1,9 @@
+qt6-httpserver (6.8.0-0deepin1) unstable; urgency=medium
+
+  * update debian/libqt6httpserver6.symbols
+
+ -- lichenggang <lichenggang@deepin.org>  Thu, 07 Nov 2024 16:09:55 +0800
+
 qt6-httpserver (6.8.0-0deepin) unstable; urgency=medium
 
   * New upstream release (6.8.0).
